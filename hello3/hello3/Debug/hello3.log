@@ -1,0 +1,10 @@
+﻿  classDefine.cpp
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\hello3.h(96,14): error C2011: “Circle”:“class”类型重定义
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\hello3.h(17): message : 参见“Circle”的声明
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\classDefine.cpp(29,30): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\classDefine.cpp(29,40): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  hello3.cpp
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\hello3.h(96,14): error C2011: “Circle”:“class”类型重定义
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\hello3.h(17): message : 参见“Circle”的声明
+C:\Users\wb.dengyueying\source\repos\hello3\hello3\hello3.cpp(25,9): error C2079: “c1”使用未定义的 class“Circle”
+  正在生成代码...

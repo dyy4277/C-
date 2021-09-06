@@ -1,0 +1,14 @@
+﻿  hello6.cpp
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(14,18): warning C4311: “<function-style-cast>”: 从“double *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(14,18): warning C4302: “<function-style-cast>”: 从“double *”到“int”截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(15,18): warning C4311: “<function-style-cast>”: 从“float *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(15,18): warning C4302: “<function-style-cast>”: 从“float *”到“int”截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(16,18): warning C4311: “<function-style-cast>”: 从“char *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(16,18): warning C4302: “<function-style-cast>”: 从“char *”到“int”截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(17,18): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(17,18): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(18,18): warning C4311: “<function-style-cast>”: 从“char *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(18,18): warning C4302: “<function-style-cast>”: 从“char *”到“int”截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(19,18): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\wb.dengyueying\source\repos\hello6\hello6\hello6.cpp(19,18): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+  hello6.vcxproj -> C:\Users\wb.dengyueying\source\repos\hello6\x64\Debug\hello6.exe
