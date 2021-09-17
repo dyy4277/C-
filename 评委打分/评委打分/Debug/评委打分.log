@@ -1,0 +1,3 @@
+﻿  评委打分.cpp
+C:\Users\wb.dengyueying\source\repos\评委打分\评委打分\评委打分.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  评委打分.vcxproj -> C:\Users\wb.dengyueying\source\repos\评委打分\Debug\评委打分.exe
