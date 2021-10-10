@@ -1,0 +1,11 @@
+﻿  manager.cpp
+  orderFile.cpp
+  student.cpp
+C:\Users\wb.dengyueying\source\repos\机房预约系统\机房预约系统\student.cpp(184,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+C:\Users\wb.dengyueying\source\repos\机房预约系统\机房预约系统\teacher.cpp(84,29): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\wb.dengyueying\source\repos\机房预约系统\机房预约系统\teacher.cpp(94,44): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\wb.dengyueying\source\repos\机房预约系统\机房预约系统\teacher.cpp(97,44): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\wb.dengyueying\source\repos\机房预约系统\Debug\机房预约系统.exe
